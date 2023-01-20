@@ -55,6 +55,7 @@ gem 'bootsnap', require: false
 
 gem 'cancancan'
 gem 'devise'
+gem 'omniauth-google-oauth2'
 gem 'rubocop-rails', require: false
 
 group :development, :test do
