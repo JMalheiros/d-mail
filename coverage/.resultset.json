@@ -190,7 +190,7 @@
           null,
           null,
           null,
-          1,
+          null,
           null,
           null,
           null,
@@ -521,13 +521,16 @@
       },
       "/home/jmalheiros/Projects/monthly-projects/d-mail/app/models/user.rb": {
         "lines": [
-          1,
           null,
           null,
           1,
           null,
           null,
+          1,
           null,
+          null,
+          null,
+          1,
           1,
           null,
           1,
@@ -535,9 +538,6 @@
           0,
           null,
           0,
-          0,
-          null,
-          null,
           null,
           null,
           0,
@@ -554,8 +554,42 @@
           null
         ]
       },
+      "/home/jmalheiros/Projects/monthly-projects/d-mail/test/models/notification_test.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
       "/home/jmalheiros/Projects/monthly-projects/d-mail/test/models/user_test.rb": {
         "lines": [
+          null,
+          null,
           1,
           null,
           1,
@@ -571,8 +605,17 @@
           null,
           null
         ]
+      },
+      "/home/jmalheiros/Projects/monthly-projects/d-mail/app/models/notification.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          null
+        ]
       }
     },
-    "timestamp": 1673919130
+    "timestamp": 1674604419
   }
 }
